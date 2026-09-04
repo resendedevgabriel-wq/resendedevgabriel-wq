@@ -1,38 +1,29 @@
-# 👋 Olá, eu sou o Gabriel Resende!
+# 👋 Hi, I'm Gabriel Resende!
 
-🚀 **Engenharia de Software & Inteligência Artificial | Automação & Soluções Comerciais**
+🚀 **AI Automation & Software Engineer | Process Optimization & Scalable Systems**
 
-Estudante do **3º período de Engenharia de Software e IA** (Bacharelado Presencial). Utilizo o VS Code e Python para desenvolver automações práticas, inteligentes e rentáveis, focadas na otimização de processos e na solução de problemas reais de negócios.
-
----
-
-## 🎓 Formação Acadêmica
-
-* **Bacharelado em Engenharia de Software e IA** | *Cursando - 3º Período (Presencial)*
+Software and AI Automation Engineer specialized in designing end-to-end automated workflows, integrating custom AI models, and optimizing business operations. Focused on building scalable, ROI-driven solutions using Python, Make.com, and API integrations.
 
 ---
 
-## 💡 Foco Profissional
-
-* **Automação Comercial & IA:** Desenvolvimento de rotinas em Python para cálculo preditivo, gestão de estoque, análise de dados e alertas inteligentes.
-* **Projetos Práticos:** Aplicação direta de lógica de programação para criar soluções de alto valor e impacto financeiro positivo.
-* **Ambiente de Desenvolvimento:** Uso do VS Code e versionamento contínuo via Git/GitHub.
+### 🎓 Education
+* **B.S. in Software & AI Engineering** | In Progress (Presential)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-* **Linguagem:** Python
-* **Ferramentas:** VS Code, Git, GitHub
-* **Áreas de Estudo:** Engenharia de Software, Inteligência Artificial, Lógica de Programação, Automação de Processos
-
----
-
-## 📌 Projetos em Destaque
-
-* 💈 **[sistema-estoque-barbearia](https://github.com/resendedevgabriel-wq/sistema-estoque-barbearia):** Automação em Python para monitoramento de estoque crítico e cálculo preditivo do custo de reposição mínima.
+### 🎯 Core Expertise
+* **Workflow & Process Automation:** Building custom automation pipelines, webhooks, and system integrations using Python, Make.com, GoHighLevel, and Airtable.
+* **AI Solutions & APIs:** OpenAI API integration, structured JSON outputs, prompt engineering, and intelligent predictive algorithms.
+* **Software Development:** Clean code, CLI tools, REST APIs, Git/GitHub version control, and VS Code environment.
 
 ---
 
-🤝 **Vamos nos conectar?**
-* Sinta-se à vontade para explorar meus repositórios e acompanhar a construção do meu portfólio!
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, JSON, REST APIs
+* **Automation Platforms:** Make.com, GoHighLevel, Airtable, Webhooks
+* **AI & ML Tools:** OpenAI API (GPT-4o)
+* **Dev Tools:** Git, GitHub, VS Code
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/gabriel-resende-b54b13433/)
