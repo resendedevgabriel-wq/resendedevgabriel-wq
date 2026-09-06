@@ -26,9 +26,3 @@ Software and AI Automation Engineer focused on designing end-to-end automated wo
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=resendedevgabriel&show_icons=true&theme=dark)
-
